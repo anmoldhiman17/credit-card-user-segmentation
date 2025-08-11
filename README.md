@@ -12,7 +12,7 @@ It uses the **Kaggle Credit Card Dataset for Clustering**, applies **data prepro
 - Cluster size summary
 
 ### Demo Video
-🎥 You can watch a demo screen recording of this project here: [Google Drive Link]([YOUR_GOOGLE_DRIVE_UR]
+🎥 You can watch a demo screen recording of this project here: 
 (https://drive.google.com/file/d/1zUIfFfvfz5GISFPWrMptAN5-eLU_2iN8/view?usp=sharing))
 
 ### Technologies
